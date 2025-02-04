@@ -77,6 +77,8 @@
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ... profesional  wev developer<br>🎲 Fun fact: ...capturing photo</p>
 <h3 align="left">I use language - English, Bangla, and Hindhi</p>
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
 ###
 
 ###
