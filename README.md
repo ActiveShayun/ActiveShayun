@@ -75,7 +75,7 @@
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ... profesional  wev developer<br>🎲 Fun fact: ...capturing photo</p>
-<p align="left">I use language - English, Bangla, and Hindhi</p>
+<h3 align="left">I use language - English, Bangla, and Hindhi</p>
 
 ###
 
