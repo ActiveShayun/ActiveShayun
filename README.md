@@ -77,6 +77,15 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ActiveShayun&=true&count_private=true&hide=prs&theme=radical)  
 
 
+## 🔥 **GitHub Streak Stats**  
+[![GitHub Streak](ActiveShayun&theme=radical)](https://git.io/streak-stats)  
+
+---
+
+## 💻 **Top Languages**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActiveShayun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ... profesional  wev developer<br>🎲 Fun fact: ...capturing photo</p>
 <h3 align="left">I use language - English, Bangla, and Hindhi</p>
 
