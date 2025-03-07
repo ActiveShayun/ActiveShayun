@@ -73,6 +73,9 @@
 </div>
 
 ###
+## 🏆 **GitHub Stats**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apur0y&show_icons=true&count_private=true&hide=prs&theme=radical)  
+
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ... profesional  wev developer<br>🎲 Fun fact: ...capturing photo</p>
 <h3 align="left">I use language - English, Bangla, and Hindhi</p>
