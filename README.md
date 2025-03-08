@@ -78,7 +78,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](relative/path/to/your/image.png)
+![GitHub Stats](relative/path/to/ActiveShayun/image.png)
 
 - **Total Contributions:** 86 (since July 9, 2024)
 - **Current Streak:** 🔥 0 (March 8, 2025)
