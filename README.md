@@ -76,23 +76,19 @@
 ## 🏆 **GitHub Stats**  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ActiveShayun&=true&count_private=true&hide=prs&theme=radical)  
 
-# 🚀 My GitHub Contributions  
 
-![GitHub Contributions](images/github-stats.png)
 
-- **Total Contributions:** 86 (Jul 9, 2024 - Present)  
-- **Current Streak:** 🔥 0 (Mar 8, 2025)  
-- **Longest Streak:** 4 days (Aug 20, 2024 - Aug 23, 2024)  
+<h1 align="left">🔥 Streak</h1>
 
----
+###
 
-### 🔥 Keep Coding & Keep Growing!  
+<div align="left">
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=ActiveShayun&theme=dracula" alt="GitHub Streak">
+</a>
 
-📫 **Connect with me:**  
-- [GitHub Profile](https://github.com/ActiveShayun)  
-- [Twitter](https://twitter.com/ActiveShayun)  
-- [LinkedIn](https://linkedin.com/in/ActiveShayun)  
-
+</div>
 ## 💻 **Top Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActiveShayun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
