@@ -83,12 +83,12 @@
 ###
 
 <div align="left">
-  
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=ActiveShayun&theme=dracula" alt="GitHub Streak">
 </a>
-
 </div>
+
+
 ## 💻 **Top Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActiveShayun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
