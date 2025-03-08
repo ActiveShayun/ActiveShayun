@@ -89,9 +89,9 @@
 ### 🔥 Keep Coding & Keep Growing!  
 
 📫 **Connect with me:**  
-- [GitHub Profile](https://github.com/yourusername)  
-- [Twitter](https://twitter.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourusername)  
+- [GitHub Profile](https://github.com/ActiveShayun)  
+- [Twitter](https://twitter.com/ActiveShayun)  
+- [LinkedIn](https://linkedin.com/in/ActiveShayun)  
 
 ## 💻 **Top Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActiveShayun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
