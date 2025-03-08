@@ -76,15 +76,13 @@
 ## 🏆 **GitHub Stats**  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ActiveShayun&=true&count_private=true&hide=prs&theme=radical)  
 
-## 📊 GitHub Stats
+# 🚀 My GitHub Contributions  
 
-![GitHub Stats](relative/path/to/ActiveShayun/image.png)
+![GitHub Contributions](images/github-stats.png)
 
-- **Total Contributions:** 86 (since July 9, 2024)
-- **Current Streak:** 🔥 0 (March 8, 2025)
-- **Longest Streak:** 4 days (August 20, 2024 - August 23, 2024)
-
-🚀 Keep coding and improving every day!
+- **Total Contributions:** 86 (Jul 9, 2024 - Present)  
+- **Current Streak:** 🔥 0 (Mar 8, 2025)  
+- **Longest Streak:** 4 days (Aug 20, 2024 - Aug 23, 2024)  
 
 ---
 
