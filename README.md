@@ -84,10 +84,11 @@
 ###
 
 <div align="left">
-<a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=ActiveShayun&theme=dracula" alt="GitHub Streak">
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=ActiveShayun&theme=dracula&v=1" alt="GitHub Streak">
+  </a>
 </div>
+
 
 
 ## 💻 **Top Languages**  
