@@ -3,79 +3,90 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/167643270?s=400&u=f1c43ee1668420e97b4a031a2988a86357d90059&v=4"  />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Apu Roy</h1>
+<h3 align="center">MERN Stack Developer from Gazipur, Bangladesh</h3>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <a href="mailto:mrapuroy1609@gmail.com">📧 mrapuroy1609@gmail.com</a> |
+  <a href="https://wa.me/8801904773653">📱 WhatsApp</a> |
+  <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a> |
+  <a href="https://github.com/ActiveShayun">💻 GitHub</a> |
+  <a href="https://www.linkedin.com/in/your-linkedin">🔗 LinkedIn</a>
+</p>
 
-###
+---
 
-<p align="left">My name is Apu Roy and I'm a Wev Developer .</p>
+### 🧾 Summary
+I am a skilled web developer with experience in **HTML, CSS, Tailwind, JavaScript, React, Express.js, and MongoDB**. I aim to work in an innovative company to develop user-friendly web applications.
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 💼 Work Experience
 
-###
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Version Control**: Git, GitHub  
+- **Other Tools & Skills**: REST API, VS Code, Figma  
 
-<p align="left">🚀I am  Web Developer | MERN Stack Enthusiast<br>💻 Skilled in React, Node.js, Express.js & Tailwind CSS<br>📚 Always learning & building cool web projects<br>🔗 Let’s connect and create something amazing!</p>
+---
 
-###
+### 💡 Soft Skills
 
-<p align="left">Current Activities<br>🌟 Exploring Next.js to enhance my React skills<br>🐾 Building a pet adoption platform to help animals find homes<br>📖 Learning more about backend optimization with Node.js & Express<br>🚀 Working on open-source projects & improving my GitHub profile</p>
+- **Communication**: Clear and concise verbal & written communication  
+- **Teamwork**: Collaborative and goal-oriented  
+- **Time Management**: Efficient task prioritization & deadline handling  
 
-###
+---
 
-<h2 align="left">Technoligies  I Use</h2>
+### 🚀 Projects
 
-###
+#### 🔹 Pat Care | [Live](#) | [Client](#) | [Server](#)
+Full-stack pet adoption platform with:
+- Responsive UI, Firebase Auth, Stripe donations
+- Role-based dashboards (user/admin)
+- JWT Auth, infinite scroll, filters, Cloudinary uploads
 
-<p align="left">Stack Skill - React , Node js, Express js, Mongo db, Tailwind css,<br>Additional Skill - Rest Apis ,firebase,git/github, deployment (vercel, netlify)</p>
+**Tech Stack**: MERN, Firebase Auth, Stripe, Cloudinary, TanStack Query, Shadcn-UI
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+#### 🔹 GrowTec | [Live](#) | [Client](#) | [Server](#)
+Service review system with:
+- JWT-based auth, role management, protected routes
+- Service & review CRUD, pagination, filters
+- Firebase Auth, Stripe integration, animated UI
 
-###
+**Tech Stack**: MERN, Firebase, Stripe, TanStack, Framer Motion, Shadcn-UI
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 🌐 GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ActiveShayun&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=ActiveShayun&theme=dracula&v=1" alt="GitHub Streak" />
+</p>
 
-###
+---
 
-<h2 align="left">Conected With Me</h2>
+### 🗣️ Language Proficiency
 
-###
+- **Bangla**: Native  
+- **English**: Fluent
 
-<div align="left">
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
+---
 
-###
-## 🏆 **GitHub Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ActiveShayun&show_icons=true&count_private=true&hide=prs&theme=radical)
+### 📫 Contact Me
 
+- 📧 **Email**: [mrapuroy1609@gmail.com](mailto:mrapuroy1609@gmail.com)  
+- 💬 **WhatsApp**: [Click to Chat](https://wa.me/8801904773653)  
+- 🌐 **Location**: Gazipur, Bangladesh
+
+---
+
+> 🔍 _"Striving to craft digital solutions that create impact & innovation."_ 🚀
 
 
 
