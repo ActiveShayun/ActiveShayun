@@ -64,7 +64,8 @@ Service review system with:
 ### 🌐 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ActiveShayun&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ActiveShayun&show_icons=true&count_private=true&hide=prs&theme=radical&v=2" alt="GitHub Stats" />
+
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app?user=ActiveShayun&theme=dracula&v=1" alt="GitHub Streak" />
 </p>
