@@ -88,29 +88,3 @@ Service review system with:
 
 > 🔍 _"Striving to craft digital solutions that create impact & innovation."_ 🚀
 
-
-
-<h1 align="left">🔥 Streak</h1>
-
-###
-
-<div align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=ActiveShayun&theme=dracula&v=1" alt="GitHub Streak">
-  </a>
-</div>
-
-
-
-## 💻 **Top Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActiveShayun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ... profesional  wev developer<br>🎲 Fun fact: ...capturing photo</p>
-<h3 align="left">I use language - English, Bangla, and Hindhi</p>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
-###
-
-###
